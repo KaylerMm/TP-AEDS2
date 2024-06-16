@@ -1,0 +1,25 @@
+-------------
+Ciência da computação
+
+Selecionados:
+Nachos 73,33
+
+Fila de Espera:
+-------------
+Biologia
+
+Selecionados:
+Killer 78,33
+Thigas 76,67
+
+Fila de Espera:
+Nachos 73,33
+-------------
+Medicina
+
+Selecionados:
+Killer 78,33
+
+Fila de Espera:
+Thigas 76,67
+-------------

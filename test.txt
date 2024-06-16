@@ -1,0 +1,7 @@
+3 2
+101;Ciência da computação;1
+102;Biologia;2
+103;Medicina;1
+Nachos;8.5;7.0;6.5;101;102
+Thigas;7.5;8.0;7.5;102;103
+Killer;7.5;8.0;8.0;102;103
