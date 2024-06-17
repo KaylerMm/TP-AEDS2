@@ -19,6 +19,10 @@ public class Candidate{
         Media = CalcularMedia();
     }
 
+    public Candidate(){
+        //Vazio para que ele seja compatível com a classe célula que inicializa um candidado vazio (equivalente a null)
+    }
+
     public double CalcularMedia(){
         return (NotaRedacao + NotaMatematica + NotaLinguagens) / 3;
     }

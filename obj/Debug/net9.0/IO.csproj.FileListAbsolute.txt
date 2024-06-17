@@ -1,12 +1,13 @@
+C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.AssemblyInfoInputs.cache
+C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.AssemblyInfo.cs
+C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.sourcelink.json
 C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\bin\Debug\net9.0\IO.exe
 C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\bin\Debug\net9.0\IO.deps.json
 C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\bin\Debug\net9.0\IO.runtimeconfig.json
 C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\bin\Debug\net9.0\IO.dll
 C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\bin\Debug\net9.0\IO.pdb
-C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.AssemblyInfoInputs.cache
-C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.AssemblyInfo.cs
-C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.csproj.CoreCompileInputs.cache
 C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.dll
 C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\refint\IO.dll
 C:\Users\kayle\Documents\PUC\AEDS 2\TP\IO\obj\Debug\net9.0\IO.pdb

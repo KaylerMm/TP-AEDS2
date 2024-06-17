@@ -93,7 +93,7 @@ public class ArquivoIO{
 
                 //Aqui estão sendo escritos os da lista de espera
                 writer.WriteLine("\nFila de Espera:");
-                foreach (var candidato in curso.ListaDeEspera){
+                foreach (var candidato in curso.FilaDeEspera){
                     writer.WriteLine($"{candidato.Nome} {Math.Round(candidato.Media, 2)}");
                 }
             }
