@@ -85,7 +85,8 @@ public class ArquivoIO{
             //Aqui estão sendo escritos os selecionados
             foreach (var curso in dicionarioDeCursos.Values){
                 writer.WriteLine("-------------");
-                writer.WriteLine($"{curso.NomeCurso}");
+                double mediaDoCurso = curso.Selecionados.Last().Media;  //Acessa a média do último aprovado na lista de aprovados do curso atual
+                writer.WriteLine($"{curso.NomeCurso} {Math.Round(mediaDoCurso, 2)}");
                 writer.WriteLine("\nSelecionados:");
                 foreach (var candidato in curso.Selecionados){
                     writer.WriteLine($"{candidato.Nome} {Math.Round(candidato.Media, 2)}");
