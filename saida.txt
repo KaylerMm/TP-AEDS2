@@ -1,12 +1,12 @@
 -------------
-Ciência da computação
+Ciência da computação 73,33
 
 Selecionados:
 Nachos 73,33
 
 Fila de Espera:
 -------------
-Biologia
+Biologia 76,67
 
 Selecionados:
 Killer 78,33
@@ -15,7 +15,7 @@ Thigas 76,67
 Fila de Espera:
 Nachos 73,33
 -------------
-Medicina
+Medicina 78,33
 
 Selecionados:
 Killer 78,33
